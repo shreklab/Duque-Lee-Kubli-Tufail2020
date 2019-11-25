@@ -1,2 +1,13 @@
-# Ca_analysis_paper
-Includes Jupyter notebook pipeline for analyzing calcium imaging after ultrasound stimulation
+
+# Calcium imaging analysis
+
+Includes Jupyter notebook with pipeline for analyzing calcium imaging after ultrasound stimulation. 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* spike detectation algorithm from Marcos Duarte, https://github.com/demotu/BMC
+
