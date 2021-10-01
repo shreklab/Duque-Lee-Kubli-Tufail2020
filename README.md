@@ -1,7 +1,10 @@
 
 # Calcium imaging analysis
 
-Includes Jupyter notebook with pipeline for analyzing calcium imaging after ultrasound stimulation. 
+Includes Jupyter notebook with pipeline for analyzing calcium imaging after ultrasound stimulation. Instructions to run a jupyter notebook can be found here https://github.com/jupyter/notebook/blob/master/README.md.
+
+Also includes Fiji script to perform automatic segmention of dTomato channel and transfected cells. Fiji can be downloaded and installed here https://imagej.net/software/fiji/.
+
 
 ## License
 
